@@ -1,0 +1,8 @@
+tensorflow-macos
+opencv-python
+matplotlib
+numpy
+pandas
+tensorboard
+streamlit
+scikit-learn
